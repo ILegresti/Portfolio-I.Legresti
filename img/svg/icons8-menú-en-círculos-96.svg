@@ -1,0 +1,11 @@
+<svg version="1.2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 50 50" width="50" height="50">
+	<title>icons8-menú-en-círculos-96</title>
+	<defs>
+		<image  width="50" height="40" id="img1" href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAADIAAAAoCAMAAACLrFl+AAAAAXNSR0IB2cksfwAAAPBQTFRFAAAAZP/aZP/aZP/aY//aZP/aZP/aZP/aZP/aZP/aZP/aZP/aZP/aZP/aZP/aZP/aZP/aY//ZZP/aZP/aZP/aZP/aZP/aZP/aZP/aZP/aZP/aZP/aZP/aZP/aZP/aZP/aZP/aZP/aZP/aY//ZZP/aZP/aZP/aZP/aZP/aZP/aZP/aZP/aZP/aZP/aZP/aZP/aZP/aZP/aZP/aZP/aZP/aZP/aZP/aZP/aZP/aZP/aZP/aZP/aZP/aZP/aZP/aZP/aZP/aZP/aZP/aZP/aZP/aZP/aZP/aZP/aZP/aZP/aZP/aZP/aZP/aZP/aZP/aZP/awv78rQAAAFB0Uk5TAAABAgIDBQYHCAkMDxITFRYAChAcISUnKCkRGiMtNTs/QUIBDRcxPklSV1lbK0tiaGxtHU9ebnJ0FAQOHh8sMDM2CypAR04ZRWBjZT1cZnDHQWAyAAABjklEQVR4nO2V2XKCMBRAMSmEEBUUXIp7RXFf6lalLrhrXf7/bxq0fQwz5LHT8wpnILlnEkEQQiEAAIQv0Bf6mL4WCgkUKkBRQjJWfMEykkRqeQ4AooRJOBJVVY2JqkYjYYIlEQBBiAERxXXNSCRT6Vcm6VQyYWh6HIkgJsSgpJiZbC5fKJbemJSKhXwumzEVCcaEsoisSrZq1+qNZotJs1Gv2dVsxUJimSo4bLQLnWa3139n0u91m51C2wjjp6IPcvZw1BtPPphMxr3R0M4NdMz7lcBr4dgxjrl400cK0aNTreKDNo3qREGP6dPG4AzhOLEcXywSx2gGH415iqwQRzfNCBPT1B2iyD8KNTAx1YzxOffh08ioJsHU8bKcYUsdJBfLVd5lkl8tF8mBauHZM8v1dL5xt7vOfshk39lt3c18un5kCWXnkHKP9dbp/MXkfGrVj27q4Mjw2ZixuOyvt/59wuTev133l4Xx21hgJfiPcSyfY5M5RskTDEeWweP/P/r+1NEX8OLjuV4DX+LfHTQGDNBxSlEAAAAASUVORK5CYII="/>
+		<image  width="38" height="30" id="img2" href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACYAAAAeBAMAAACyOnFdAAAAAXNSR0IB2cksfwAAABVQTFRFav/UX//fY//ZZP/aAAAAY//ZY//ZJyRf3wAAAAd0Uk5TDBDA/wBskJ9F23IAAAAuSURBVHicY2AURAcCDMrG6MCIaDFs5rlggkElFpaGDlKJ9i82vYPJb9jE6BDnALKWgksmrBSIAAAAAElFTkSuQmCC"/>
+	</defs>
+	<style>
+	</style>
+	<use id="Layer 1" href="#img1" x="0" y="5"/>
+	<use id="Background" href="#img2" x="6" y="10"/>
+</svg>

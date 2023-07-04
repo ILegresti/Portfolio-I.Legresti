@@ -1,0 +1,169 @@
+@import url('https://fonts.googleapis.com/css2?family=Chakra+Petch:wght@700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Chakra+Petch:ital,wght@1,500&display=swap');
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+:root {
+    --neon-color:#64FFDA;
+    --secondary-color:#005D67 ;
+    --s-font-bold:'Chakra Petch', sans-serif;
+}
+
+.text-italic{
+    font-family: var(--s-font-bold);
+    font-style: italic;
+}
+.text-bold{
+    font-family: var(--s-font-bold);
+}
+.text-neon{
+    color: white;
+    text-shadow: 0 0 20px var(--neon-color);
+}
+.margin-0{
+    margin-bottom: 0;
+}
+.bg-principal{
+    background-color: #181C20;
+}
+.fs-xl{
+    font-size: 3.5rem;
+}
+.sombra{
+    box-shadow: 0px 1px 39px 4px rgba(0,0,0,1);
+}
+.padding-bottom{
+    padding-bottom: 30vh;
+}
+.p-top-xl{
+    padding-top: 30vh;
+}
+.nav-item:hover{
+    transform: scale(1.1);
+    transition: 0.5s;
+}
+
+h1{
+    font-family: var(--s-font-bold);
+    font-weight: bold;
+    font-size: 6rem;
+    border-bottom: 1px solid white;
+    text-shadow: 0 0 20px var(--neon-color);
+}
+h2{
+    font-family: var(--s-font-bold);
+}
+html{
+    transition: 0.5s;
+    scroll-behavior: smooth;
+}
+/*  terminan variables y clases generales */
+
+#cv{
+    border: 1px solid white;
+    box-shadow: 0 0 10px var(--neon-color);
+    padding: auto;
+}
+.div-home{
+    border-radius: 20px;
+    background-color: var(--secondary-color);
+    max-width: 100vh;
+    width: 50%;
+    height: 50vh;
+    box-shadow: 0 0 10px var(--neon-color);
+}
+.div-home-img{
+    width: 50%;
+    height: 50vh;
+}
+.nav-shadow{
+    position: sticky;
+    top: 0;
+    box-shadow: 0px 10px 10px -1px rgba(0,0,0,0.75);
+}
+.padding-section{
+    padding-top: 4rem;
+    gap: 20px;
+}
+.btn-home{
+    background-color: #181C20;
+    color: var(--neon-color);
+    border-radius: 15px;
+    margin: 0;
+    border: none;
+    padding: 0.7rem;
+    box-shadow: 0 0 10px var(--neon-color);
+    font-size: 1.2rem;
+}
+.btn-home a{
+    text-decoration: none;
+    color:#64FFDA;
+}
+.btn-home:hover{
+    transform: scale(1.1);
+    transition: 0.5s;
+}
+/*  TERMINA HOME   */
+
+/* COMIENZA STACK */
+.grid-container {
+    display: grid;
+    grid-template-columns: 150px 150px;
+    grid-template-rows: 0.5fr 0.5fr 0.5fr 0.5fr;
+    grid-column-gap: 20px;
+    grid-row-gap: 20px;
+    justify-items: center;
+    align-items: center;
+}
+.tamanio-div-stack{
+    width: 100%;
+    height: 10vh;
+    border-radius: 20px;
+    transition: transform 0.3s ease;
+}
+.tamanio-div-stack:hover{
+    transform: translateY(-5px);
+    box-shadow: 0px 1px 10px 4px var(--neon-color);
+}
+
+/* ABOUT SECTION */
+
+.div-about{
+    background-color: var(--secondary-color);
+    border: 2px solid var(--neon-color);
+    border-radius: 20px;
+    max-width: 75vh;
+    width: 90%;
+}
+.card-style{
+    border: 10px solid #64FFDA;
+}
+.card:hover{
+    transform: scale(1.1);
+    transition: 0.5s;
+    transform: translateY(-10px);
+    box-shadow: 0px 1px 10px 4px var(--neon-color);
+    cursor: pointer;
+}
+
+/* CONTACTO */
+
+.input-form{
+    width: 50%;
+    border: 2px solid var(--neon-color);
+}
+.contacto-section{
+    background-color: var(--secondary-color);
+    border-radius: 20px;
+    height: 100%;
+    width: 60%;
+    border: 2px solid var(--neon-color);
+    margin: 0;
+}
+.input-contacto{
+    border: 2px solid var(--neon-color);
+}
